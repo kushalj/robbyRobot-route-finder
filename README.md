@@ -14,7 +14,7 @@ robbyRobot2.js
 A second attempt that uses a better coordinate system and has optimisations in place:
 
 1. function calls removed from loops and inlined
-1. most variable assingments removed from loops and cached using ```JS let``` variables
+1. most variable assingments removed from loops and cached using ```let``` variables
 
 
 robbyRobot3.js
